@@ -1,4 +1,8 @@
 <p align="center">
+  ⚙️ I use daily: <code>.cs</code>, <code>.py</code>, <code>.cshtml</code>, <code>.html</code>, <code>.css</code>, <code>.shader</code>, <code>.unity</code>
+</p>
+
+<p align="center">
   <a href="https://github.com/Xydis-I"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
