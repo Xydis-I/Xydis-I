@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Xydis-I"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=shades-of-purple" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Xydis-I"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=github-dark-blue" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xydis-I&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xydis-I&theme=github-dark-blue)](https://github.com/Xydis-I)
 
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/languages.svg#gh-dark-mode-only)
