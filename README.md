@@ -7,10 +7,14 @@
   <a href="https://github.com/Xydis-I"><img src="https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" /></a>
 </p>
 
+
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xydis-I&theme=shades-of-purple)](https://git.io/streak-stats)
+
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<!--
 **Xydis-I/Xydis-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 shades-of-purple
 Here are some ideas to get you started:
