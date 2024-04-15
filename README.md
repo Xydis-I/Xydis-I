@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Xydis-I"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=github-dark-blue" alt="GitHub Streak" /></a>
+  <a href="https://github.com/Xydis-I"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
