@@ -1,5 +1,5 @@
 <p align="center">
-  ⚙️ I use daily: <code>.cs</code>, <code>.py</code>, <code>.shader</code>, <code>.unity</code>, <code>.cshtml</code>, <code>.html</code>, <code>.css</code>
+  ⚙️ Daily drivers: <code>.cs</code>, <code>.py</code>, <code>.shader</code>, <code>.unity</code>, <code>.cshtml</code>, <code>.html</code>, <code>.css</code>
 </p>
 
 <p align="center">
