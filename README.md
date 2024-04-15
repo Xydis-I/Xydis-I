@@ -1,6 +1,4 @@
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Xydis-I&theme=shades-of-purple)](https://github.com/Xydis-I)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Xydis-I&theme=shades-of-purple)](https://github.com/Xydis-I)
 
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/languages.svg#gh-dark-mode-only)
