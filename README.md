@@ -1,4 +1,6 @@
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=shades-of-purple" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=shades-of-purple" alt="GitHub Streak" /></a>
+</p>
 
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/languages.svg#gh-dark-mode-only)
