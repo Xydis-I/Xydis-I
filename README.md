@@ -2,9 +2,12 @@
   ⚙️ Daily Drivers: <code>.cs</code>, <code>.py</code>, <code>.shader</code>, <code>.unity</code>, <code>.cshtml</code>, <code>.html</code>, <code>.css</code>
 </p>
 
+
+<!--
 <p align="center">
   <a href="https://github.com/Xydis-I"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" /></a>
 </p>
+-->
 
 <p align="center">
   <a href="https://github.com/Xydis-I"><img src="https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" /></a>
