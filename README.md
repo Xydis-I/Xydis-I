@@ -3,14 +3,16 @@
 </p>
 
 
-<!--
+
 <p align="center">
   <a href="https://github.com/Xydis-I"><img src="https://streak-stats.demolab.com?user=Xydis-I&theme=github-dark-blue&mode=weekly" alt="GitHub Streak" /></a>
 </p>
--->
+
 
 <p align="center">
+  <!--
   <a href="https://github.com/Xydis-I"><img src="https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" /></a>
+  -->
   <a href="https://github.com/Xydis-I"><img src="https://raw.githubusercontent.com/Xydis-I/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" /></a>
 </p>
 
